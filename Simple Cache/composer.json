@@ -1,0 +1,9 @@
+{
+
+    "require": {
+
+        "gilbitron/php-simplecache": "~1.4"
+
+    }
+
+}
